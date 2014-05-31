@@ -6,7 +6,7 @@ if(isset($_GET['submit'])) {
         echo "it matches";
     }
     else {
-        echo "no match";
+        echo "no match found";
     }
 }
 
